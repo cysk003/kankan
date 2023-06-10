@@ -5,10 +5,14 @@ on:
   schedule:
     - cron: '0 21 * * *'
 
+env:
+  REPO_URL: ${{ vars.REPO_URL }}
+  SEARCH_CONTENT: ${{ vars.SEARCH_CONTENT }}
+  REPLACE_CONTENT: ${{ vars.REPLACE_CONTENT }}
+
 jobs:
-  bot:
+  cron_task:
     runs-on: ubuntu-latest
-    environment: ${{ vars.kankan }}
     steps:
       - name: '检出仓库代码'
         uses: actions/checkout@v3
