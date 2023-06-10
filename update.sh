@@ -17,5 +17,5 @@ rm -rf tmp.json
 git config user.email "bellong@vip.qq.com"
 git config user.name "fanite"
 git add tvbox.json
-git commit -m "cron task update on ${date}"
+git commit -m "cron task update on $(date)"
 git push -f origin main
