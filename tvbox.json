@@ -193,7 +193,6 @@
     
 {"key": "csp_search_PanSearch","name": "🗂️┃盘搜┃搜索","type": 3,"api": "csp_PanSearch", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
 
-
 {"key":"csp_search_Yisou","name":"🐏┃易搜┃搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
 
 {"key":"csp_search_Zhaozy","name":"🐑┃资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :0,"filterable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"},
