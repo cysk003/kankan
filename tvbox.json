@@ -13,7 +13,8 @@
 
 {"key":"多米蓝光","name":"🌽️┃多米┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
 
-{"key":爱迪V2,"name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 
+{"key":爱迪V2,"name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"}, 
+
 
 {"key":"csp_apple","name":"🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
@@ -60,7 +61,7 @@
 
 {"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"Xinsj","name":"🌟┃视觉┃影视","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080yy2.com"},
+//{"key":"Xinsj","name":"🌟┃视觉┃影视","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080yy2.com"},
 
 //{"key":"csp_XBPQ新视觉","name":"🌟┃视觉┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/新视觉影院.json"},
 //{"key":"农民","name":"🤴┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/nmys.json"},
