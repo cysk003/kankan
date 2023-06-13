@@ -3,7 +3,7 @@ name: '定时更新TVBOX内容'
 on:
   push:
   schedule:
-    - cron: '0 0/2 * * *'
+    - cron: '0 0/4 * * *'
 
 env:
   REPO_URL: ${{ vars.REPO_URL }}
