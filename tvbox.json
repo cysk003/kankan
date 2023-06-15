@@ -182,7 +182,17 @@
 
 {"key":"csp_Bd","name":"🎵┃哔滴┃影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
-
+{
+            "key": "往往蓝光", 
+            "name": "🎵┃压力┃测试", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "jar": "http://xhww.fun:63/小米/小暴脾气3.jar;md5;b4360dbac24e0aba72df8cddf1faf1dc", 
+            "ext": "https://www.oftens.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+        },
 
 //{"key":"Zjdr","name":"🏃┃追剧┃达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 
