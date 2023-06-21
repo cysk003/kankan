@@ -13,7 +13,7 @@
 
 {"key":"多米蓝光","name":"🌽️┃多米┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jx.ccabc.cc/fanfan/api.php/app/"},
 
-{"key":爱迪V2,"name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"}, 
+{"key":"爱迪V2","name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"}, 
 
 
 {"key":"csp_apple","name":"🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -269,104 +269,15 @@
 
 
 
-	{
-            "name": "测试",
-            "type": 1,
-            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                    
-                ]
-            }
-        },
+{"name": "测试","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
 {"name": "小城解析","type": 1,"url": "https://jx.ccabc.cc/xc/?key=5567332json&url="},
 
 {"name": "星辰云解析","type": 1,"url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
         
 {"name": "小新解析", "type": 1, "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2781037&key=eijkoqxBDFGILRTUWZ&url="},
-{"name": "小鱼解析", "type": 1, "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
+{"name": "小鱼解析", "type": 1, "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="}
 
-{
-            "name": "刚刚走过",
-            "type": 1,
-            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                    
-                ]
-            }
-        },
-
-    
 ],
 
 "rules": [
