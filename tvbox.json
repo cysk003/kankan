@@ -6,7 +6,7 @@
 {"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
 {"key":" 在线┃直播","name":"📺┃竞技┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "PPY","name": "🦆┃鸭鸭┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext":"http://我不是.肥猫.love:63/json/云云.json","jar":"http://xhww.fun:63/小米/小暴脾气4.jar;md5;4bb3f45530fff959b029e2af6dec6c21"},
+{"key": "PPY","name": "😸┃肥猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext":"http://我不是.肥猫.love:63/json/云云.json","jar":"http://xhww.fun:63/小米/小暴脾气4.jar;md5;4bb3f45530fff959b029e2af6dec6c21"},
 
 {"key":"YQK_spider","name":"🙆┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://hk-api-cf.yqk5659.com"},
 
@@ -36,7 +36,7 @@
 
 {"key":"Kuaikan","name":"👀┃快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "飞速","name": "🚄┃飞速┃影视","type": 3,"api": "csp_AppYsV2","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://longfei.lfytyl.com/api.php/app/"},
+{"key": "飞速","name": "🚄┃飞速┃影视","type": 3,"api": "csp_AppYsV2","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://get.lfytyl.com/api.php/app/"},
 
 {"key":"csp_Lib","name":"💫┃Lib  ┃影视","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
 
@@ -60,10 +60,11 @@
 {"key":"csp_555","name":"5️⃣️┃555┃影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com/"},
 
 
-{"key": "csp_appys_如意4K","name": "🐵️┃如意┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/","playUrl":"json:https://jx.4kdv.com/?url="},
+{"key": "csp_appys_如意4K","name": "🐵️┃如意┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/","playUrl":"json:http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
+
 {"key":"csp_Auete","name":"🏝┃Aue ┃影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
+{"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},  
 
 {"key":"Qtv","name":"🐧┃企鹅┃官源","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1},
 
@@ -162,8 +163,9 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 
+{"name": "但行好事","type": 1,"url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
 
-{"name": "测试","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name": "莫问前程","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
 {"name": "小城解析","type": 1,"url": "https://jx.ccabc.cc/xc/?key=5567332json&url="},
 
@@ -171,9 +173,7 @@
         
 {"name": "小新解析", "type": 1, "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2781037&key=eijkoqxBDFGILRTUWZ&url="},
 
-{"name": "小鱼解析", "type": 1, "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
-
-{"name": "但行好事", "type": 1, "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="}
+{"name": "小鱼解析", "type": 1, "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="}
 
 ],
 
