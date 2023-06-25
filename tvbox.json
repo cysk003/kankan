@@ -9,7 +9,10 @@
 
 {"key":"肥猫","name":"😸┃肥猫┃影视","type":3,"api":"csp_XBPQ","ext":"http://我不是.肥猫.love:63/json/云云.json","jar":"http://xhww.fun:63/小米/小暴脾气5.jar;md5;d10047ad127888e9588e38bdc0817cdd"},
 
-{"key":"爱迪", "name": "💡┃爱迪┃影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://api123.adys.app/xgapp.php/v3/","jar":"http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5; FE290599BF2EF6D202B92B9B733F776F"},
+{"key":"爱迪", "name": "💡┃爱迪┃影视", "type":3, "api":"csp_AppYsV2","playerType": "2", "ext": "https://api123.adys.app/xgapp.php/v3/","jar":"http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5; FE290599BF2EF6D202B92B9B733F776F"},
+
+{"key":"狐狸", "name": "🦊┃狐狸┃影视", "type":3,"api":"csp_AppYsV2", "playerType": "2", "ext": "https://www.kuin.one/api.php/app/","jar":"http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5; FE290599BF2EF6D202B92B9B733F776F"},
+
 
 {"key": "鸭鸭","name": "🦆┃鸭鸭┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/","jar":"http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5; FE290599BF2EF6D202B92B9B733F776F"},
     
