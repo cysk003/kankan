@@ -38,35 +38,8 @@
       "playerType": "2",
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-    {
-      "key": "狐狸",
-      "name": "🦊┃狐狸┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": "2",
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "鸭鸭",
-      "name": "🦆┃鸭鸭┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
-      "key": "酷云",
-      "name": "😎┃酷云┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://ys.realdou.cn/api.php/app/",
-      "categories": [
-        "4K电影",
-        "4K电视剧"
-      ]
-    },
+
+
     {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
@@ -249,6 +222,35 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "酷云",
+      "name": "😎┃酷云┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://ys.realdou.cn/api.php/app/",
+      "categories": [
+        "4K电影",
+        "4K电视剧"
+      ]
+    },
+    {
+      "key": "狐狸",
+      "name": "🦊┃狐狸┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "鸭鸭",
+      "name": "🦆┃鸭鸭┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
       "key": "drpy_js_奇珍异兽",
