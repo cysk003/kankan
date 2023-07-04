@@ -685,7 +685,7 @@
     {
 "name": "夜曲解析",
 "type": 1,
-"url": "http://xhww.fun:63/爱肥猫.php?url=",
+"url": "http://xhww.fun:63/小米爱肥猫.php?url=",
 "ext": {
 "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua", "nongmin", "CL4K", "xfyun", "ffm3u8", "lzm3u8", "netease", "pgyer","TD", "qzone", "FY", "ppayun", "Feiyun", "zhibo"],
 "header": {
@@ -787,7 +787,12 @@
     "芒 果 T V",
     "bilibili",
     "哔 哩",
-    "哔 哩 哔 哩"
+    "哔 哩 哔 哩",
+    "FY",
+    "fy",
+    "FeiYun",
+    "feiyun",
+    "飞云"
   ],
   "ijk": [
     {
