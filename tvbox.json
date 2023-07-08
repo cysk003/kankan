@@ -116,7 +116,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://www.lfytv.cn/api.php/app/"
+      "ext": "http://ytcms.lfytyl.com/api.php/app/"
     },
     {
       "key": "csp_Lib",
