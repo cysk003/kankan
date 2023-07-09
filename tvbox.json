@@ -140,6 +140,16 @@
       "ext": "http://ytcms.lfytyl.com/api.php/app/"
     },
     {
+      "key": "csp_蚂蚁影院",
+      "name": "🌼┃蚂蚁┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.肥猫.love:63/json/蚂蚁影院.json"
+    },
+    {
       "key": "csp_Lib",
       "name": "💫┃Lib  ┃影视",
       "type": 3,
