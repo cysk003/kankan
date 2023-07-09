@@ -120,14 +120,14 @@
       "ext": "http://我不是.肥猫.love:63/json/芸芸.json"
     },
     {
-      "key": "蘑菇",
-      "name": "🍄┃蘑菇┃影视",
+      "key": "落落",
+      "name": "🍄┃落落┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.moguys.xyz/api.php/app/"
+      "ext": "http://luoye.shop:66/api.php/app/"
     },
     {
       "key": "飞速",
@@ -150,6 +150,16 @@
       "ext": "http://我不是.肥猫.love:63/json/蚂蚁影院.json"
     },
     {
+      "key": "小艺",
+      "name": "🥩┃小艺┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://lg.tvcms.top/api.php/app"
+    },    
+    {
       "key": "csp_Lib",
       "name": "💫┃Lib  ┃影视",
       "type": 3,
@@ -169,22 +179,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "http://我不是.肥猫.love:63/json/乐猪.json"
-    },
-    {
-      "key": "csp_XBPQ秋霞影视",
-      "name": "️🍂┃秋霞┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
-        "分类url": "https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
-        "跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
-        "二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
     },
     {
       "key": "暴风",
@@ -213,16 +207,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "playerType": 1
-    },
-    {
-      "key": "csp_555",
-      "name": "5️⃣️┃555┃影视",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.555dyy1.com/"
     },
     {
       "key": "csp_Auete",
@@ -322,15 +306,6 @@
       "name": "🌸┃樱花┃动漫",
       "type": 3,
       "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Ysj",
-      "name": "🐲┃异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
