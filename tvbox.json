@@ -46,6 +46,17 @@
       "filterable": 1
     },
     {
+      "key": "yyds",
+      "name": "🔥┃杳音┃影院",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "playerType": "2",
+      "ext": "http://alist.xn--z7x900a.love:63/yyds.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
       "api": "csp_YQKAPP",
