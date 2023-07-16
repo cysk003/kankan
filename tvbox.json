@@ -29,10 +29,22 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": "2",
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
+      "ext": "https://api123.adys.app/xgapp.php/v3/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
-
-
+    {
+      "key": "荐片",
+      "name": "🎬┃豆瓣┃荐片",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "playerType": "2",
+      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
@@ -44,14 +56,16 @@
       "searchable": 1,
       "ext": "https://hk-api-cf.yqk5659.com"
     },
-
     {
-      "key": "csp_Kunyu77",
+      "key": "七七",
       "name": "🌈┃七七┃影视",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "playerType": "2",
+      "ext": "http://alist.xn--z7x900a.love:63/七七.js",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_DiDuan",
@@ -118,7 +132,7 @@
     },
     {
       "key": "飞速",
-      "name": "🚄┃飞速┃影视",
+      "name": "🚄┃影探┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 0,
@@ -555,17 +569,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
-    },
-    {
-      "key": "push_agent",
-      "name": "▶┃推送┃磁力",
-      "type": 3,
-      "api": "csp_Push",
-      "playerType": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "ext_live_protocol",
