@@ -23,16 +23,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key": "影城", 
-    "name": "🚚┃车车┃影城", 
-    "type": 3, 
-    "api":"csp_Ysyc",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "categories":["飞云4K","电视剧","电影","动漫","综艺"],
-    "jar":"http://我不是.肥猫.love:63/Jar/ysyc.jar;md5;08A49D68E216A2DD4246AEA0B92924FC"
-    },
     {
       "key": "爱迪",
       "name": "💡┃爱迪┃影视",
@@ -230,17 +220,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "酷云",
-      "name": "😎┃酷云┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://ys.realdou.cn/api.php/app/",
-      "categories": [
-    "4K电影",
-    "4K电视剧",
-      ]
     },
     {
       "key": "布蕾",
