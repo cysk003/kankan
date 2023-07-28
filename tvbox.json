@@ -167,7 +167,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/蚂蚁影院.json"
+      "ext": "http://我不是.肥猫.love:63/json/蚂蚁.json"
     },
     {
       "key": "小艺",
@@ -242,7 +242,7 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": "2",
-      "ext": "https://www.kuin.one/api.php/app/"
+      "ext": "https://www.kuing.one/api.php/app/"
     },
     {
       "key": "鸭鸭",
