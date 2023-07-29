@@ -62,6 +62,20 @@
     "ext": "http://我不是.肥猫.love:63/json/素白.json"
     },    
     {
+    "key": "奇奇",
+    "name": "🦉┃奇奇┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "http://我不是.肥猫.love:63/json/奇奇.json"
+    },  
+    {
+    "key": "虎虎",
+    "name": "🐯┃虎虎┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
+    },  
+    {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
       "api": "csp_YQKAPP",
