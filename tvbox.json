@@ -24,16 +24,6 @@
       "filterable": 1
     },
     {
-      "key": "荐片",
-      "name": "🎬┃豆瓣┃荐片",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "磁力熊",
       "name": "🐻┃熊熊┃磁力",
       "type": 3,
@@ -62,12 +52,12 @@
     "ext": "http://我不是.肥猫.love:63/json/素白.json"
     },    
     {
-    "key": "奇奇",
-    "name": "🦉┃奇奇┃影视",
+    "key": "夜夜",
+    "name": "🦉┃夜夜┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "http://我不是.肥猫.love:63/json/奇奇.json"
-    },  
+    "ext":{"站名":"夜光影视","主页url":"https://www.ygpvp.com/","分类url":"https://www.ygpvp.com/vodshow/{cateId}--------{catePg}---{year}.html;;v","分类":"电影$1#电视剧$2#综艺$3#动漫$4","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"https://www.ygpvp.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取":"\"list\":[&&]","搜索数组":"{&&}","搜索标题":"\"name\":\"&&\"","搜索图片":"\"pic\":\"&&\"","搜索链接":"https://www.ygpvp.com/voddetail/+\"id\":&&,+html","跳转播放链接":"https://bfq.ygpvp.com/ygbfq1/?url=+vod_class*url\":\"&&\"","二次跳转播放链接":"https://bfq.ygpvp.com/ygbfq1/API.php;post;url=+\"url\"*\"&&\"+&ac=jx","三次跳转播放链接":"\"url\"*\"&&\"","年代":"年份：&&</a>","地区":"地区：&&</a>","类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"<p>&&</p>"}
+},
     {
     "key": "虎虎",
     "name": "🐯┃虎虎┃影视",
@@ -190,9 +180,11 @@
       "name": "🚄┃影探┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar":"http://我不是.肥猫.love:63/Jar/影探.jar",
-      "ext": "http://yt傻.lfytyl.com/api.php/app/"
-    },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yt3823.lfytyl.com/api.php/app/"
+    },    
     {
       "key": "小艺",
       "name": "🥩┃小艺┃影视",
@@ -652,7 +644,7 @@
     {
       "name": "小新解析",
       "type": 1,
-      "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
+      "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
     },
     {
       "name": "小鱼解析",
@@ -951,5 +943,5 @@
   ],
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
   "warningText": "接口完全免费，切勿付费购买。",
-  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230729.jar;md5;09B094495F1374D699F5C7CD158FDC94"
+  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230801.jar;md5;1d1edc47f8fe6d77cd5ffe937bbc846f"
 }
