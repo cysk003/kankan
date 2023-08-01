@@ -176,15 +176,15 @@
     "ext": "http://我不是.肥猫.love:63/json/芸芸.json"
     },
     {
-      "key": "飞速",
-      "name": "🚄┃影探┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yt3823.lfytyl.com/api.php/app/"
-    },    
+        "key": "飞速",
+        "name": "🚄┃影探┃影视",
+        "type": 3,
+        "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"
+    },   
     {
       "key": "小艺",
       "name": "🥩┃小艺┃影视",
