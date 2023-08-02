@@ -137,7 +137,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/",
+      "jar":"http://我不是.肥猫.love:63/Jar/0802.jar;md5;5b0a99424c5324f06cd4f82f678a7ba9"
     },
     {
       "key": "csp_AppMr",
@@ -337,7 +338,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "jar":"http://我不是.肥猫.love:63/Jar/0802.jar;md5;5b0a99424c5324f06cd4f82f678a7ba9"
     },
     {
       "key": "csp_search_PanSearch",
@@ -347,7 +349,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "jar":"http://我不是.肥猫.love:63/Jar/0802.jar;md5;5b0a99424c5324f06cd4f82f678a7ba9"
     },
     {
       "key": "csp_search_Yisou",
@@ -358,7 +361,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "jar":"http://我不是.肥猫.love:63/Jar/0802.jar;md5;5b0a99424c5324f06cd4f82f678a7ba9"
     },
     {
       "key": "csp_search_Zhaozy",
@@ -369,7 +373,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456",
+      "jar":"http://我不是.肥猫.love:63/Jar/0802.jar;md5;5b0a99424c5324f06cd4f82f678a7ba9"
     },
     {
       "key": "csp_search_Upyunso",
@@ -380,7 +385,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "jar":"http://我不是.肥猫.love:63/Jar/0802.jar;md5;5b0a99424c5324f06cd4f82f678a7ba9"
     },
     {
       "key": "csp_search_Alips",
@@ -391,7 +397,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+      "jar":"http://我不是.肥猫.love:63/Jar/0802.jar;md5;5b0a99424c5324f06cd4f82f678a7ba9"
     },
     {
       "key": "csp_BBB",
