@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🐼┃豆瓣┃免费接口，新微信公众号：肥猫宝贝",
+      "name": "🐼┃豆瓣┃新微信公众号：肥猫宝贝",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
@@ -22,6 +22,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "alist",
+      "name": "🍰┃小鸭┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"http://alist.xn--z7x900a.love:63/alist.json"
     },
     {
       "key": "磁力熊",
@@ -51,6 +61,7 @@
     "api": "csp_XBPQ",
     "ext": "http://我不是.肥猫.love:63/json/素白.json"
     },    
+    
     {
     "key": "夜夜",
     "name": "🦉┃夜夜┃影视",
@@ -110,7 +121,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://czzy.art/"
+      "ext": "https://czzy.pro/"
     },
     {
       "key": "双十",
@@ -195,6 +206,16 @@
       "filterable": 1,
       "ext": "https://lg.tvcms.top/api.php/app/"
     },    
+    {
+      "key": "蘑菇",
+      "name": "🍄┃蘑菇┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.肥猫.love:63/json/蘑菇.json"
+    },
     {
       "key": "csp_Lib",
       "name": "💫┃Lib  ┃影视",
