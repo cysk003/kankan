@@ -177,14 +177,14 @@
     },  
     {
       "key": "辣辣",
-      "name": "🌶️┃辣辣┃A影视",
+      "name": "🌶️┃辣辣┃影视",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/",
-      "jar": "http://我不是.肥猫.love:63/Jar/APP.jar;md5;c570b052645834a1109b54421c1552f9"
+      "jar": "http://我不是.肥猫.love:63/Jar/5.jar;md5;c570b052645834a1109b54421c1552f9"
     },
     {
       "key": "蘑菇",
@@ -546,7 +546,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd"
     },
     {
       "key": "ext_live_protocol",
