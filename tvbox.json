@@ -390,7 +390,7 @@
       "quickSearch": 0,
       "ext": "http://我不是.肥猫.love:63/json/ych.json"
     },
-    {
+    /*{
       "key": "js虎牙",
       "name": "🐅┃虎牙┃直播",
       "type": 3,
@@ -436,7 +436,7 @@
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
       "ext": "http://alist.xn--z7x900a.love:63/JRKAN直播.js"
-    },
+    },*/
     {
       "key": "csp_XYQBiu_聚合短视频",
       "name": "📽️┃视频┃聚合",
@@ -447,7 +447,7 @@
       "filterable": 0,
       "ext": "http://我不是.肥猫.love:63/json/短视频.json"
     },
-    {
+   /* {
       "key": "drpy_js_有声小说吧",
       "name": "📻┃有声┃小说",
       "type": 3,
@@ -460,7 +460,7 @@
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
       "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
-    },
+    },*/
     {
       "key": "csp_Nbys",
       "name": "✈┃泥巴┃墙外",
