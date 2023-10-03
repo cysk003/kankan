@@ -89,7 +89,7 @@
     },  
 {
    "key": "熊猫",
-   "name": "🐼｜熊猫｜影视",
+   "name": "🐼┃熊猫┃影视",
    "type": 3,
    "api": "csp_XBPQ",
    "ext": {
@@ -117,7 +117,7 @@
    }
 },
 {    "key": "蜗牛弹幕",
-                "name": "🐌｜蜗牛｜影视",
+                "name": "🐌┃蜗牛┃影视",
                 "type": 3,
                 "api": "csp_XBPQ",
                 "ext": {
@@ -145,15 +145,15 @@
       "ext": "https://hk-api-cf.yqk5659.com"
     },
     {
-			"key": "益达影视",
-			"name": "🌝┃益达┃影视",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://myd666.tv/lvdou_api.php/v1.vod"
-		},
+       "key": "益达影视",
+       "name": "🌝┃益达┃影视",
+       "type": 3,
+       "api": "csp_AppYsV2",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
+    },
     {
       "key": "七七",
       "name": "🌈┃七七┃影视",
@@ -162,6 +162,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🌾┃农民┃影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
     },
     {
       "key": "csp_DiDuan",
@@ -327,6 +334,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.ysgc.fun"
+    },
+    {
+      "key": "蓝猫动漫",
+      "name": "🌊┃蓝猫┃动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
     },
     {
       "key": "csp_Ying",
