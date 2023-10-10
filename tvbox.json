@@ -87,6 +87,13 @@
     "api": "csp_XBPQ",
     "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
     },  
+    {
+    "key": "恐怖世界",
+    "name": "😨┃恐怖┃世界",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "http://我不是.肥猫.love:63/json/恐怖世界.json"
+    },  
 {
    "key": "熊猫",
    "name": "🐼┃熊猫┃影视",
@@ -113,7 +120,7 @@
       "播放链接": "href=\"&&\"",
       "分类": "电影&电视剧&综艺&动漫",
       "分类值": "52&69&77&75",
-      "分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+      "分类url": "https://xmvod520.com/index.php/vod/type/id/{cateId}.html"
    }
 },
 {    "key": "蜗牛弹幕",
