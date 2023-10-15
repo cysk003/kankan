@@ -71,7 +71,16 @@
       ]
     },
      {"key": "鑫鑫影视","name": "🐼┃宝宝┃影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
-       {"key": "贝贝","name": "🐼┃贝贝┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":1,"ext": "http://cms.cttv.vip/api.php/app/"},
+       	{
+			"key": "嘤嘤怪",
+			"name": "🐼┃贝贝┃影视",
+			"type": 1,
+			"api": "http://www.yygmovie.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": ["电影","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","其他片","纪录片","国产剧","欧美剧","韩剧","日本剧","港台剧","其他剧","其他","大陆","日韩","港台","动漫","国产动漫","日韩动漫"]
+		},
     {
             "key": "嘉靓",
             "name": "💫┃嘉良┃影视",
