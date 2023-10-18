@@ -110,7 +110,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://api.jialiangos.com:88/api.php/app/"
+            "ext": "http://api.jialiangos.com:81/api.php/app/"
         },
     {
       "key": "YGP",
@@ -820,7 +820,7 @@
      {
       "name": "小鱼解析",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
      {
         "name": "叉车解析",
