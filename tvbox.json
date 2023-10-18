@@ -71,16 +71,7 @@
       ]
     },
      {"key": "鑫鑫影视","name": "🐼┃宝宝┃影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
-       	{
-			"key": "嘤嘤怪",
-			"name": "🐼┃贝贝┃影视",
-			"type": 1,
-			"api": "http://www.yygmovie.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": ["电影","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","其他片","纪录片","国产剧","欧美剧","韩剧","日本剧","港台剧","其他剧","其他","大陆","日韩","港台","动漫","国产动漫","日韩动漫"]
-		},
+		{"key":"csp_电影","name":"🐼┃贝贝┃影视","type":3,"api":"csp_AppYsV2","ext":"https://app.dianyi.ng/api.php/v1.vod","searchable":1,"quickSearch":1}, 
     {
             "key": "嘉靓",
             "name": "💫┃嘉良┃影视",
@@ -131,20 +122,25 @@
     "api": "csp_XBPQ",
     "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
     },  
-{    "key": "蜗牛弹幕",
-       "name": "🐌┃蜗牛┃影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "ext": {
- "简介":"class=\"video-info-item video-info-content vod_content\">&&</span>",               
- "数组":"class=\"module-item-text\"&&class=\"loading\"",
-  "线路数组":"data-dropdown-value=&&</div>",
-   "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",        
- "副标题":" class=\"module-item-text\">&&</div>",   
- "分类":"电影$1#日韩剧$21#海外剧$2#动漫$20",   
-    "分类url":"https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"   
-        }
-        },
+    {
+			"key": "蜗牛2",
+			"name": "🐌┃蜗牛┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playStartTime": 15,
+			"ext": {
+				"二次截取": "module-items&&<footer id=+module-item-cover",
+				"数组": "module-item-pic&&module-item-cover",
+				"副标题": "module-item-text*>&&</div>",
+				"简介": "剧情：</span>&&</span>",
+				"搜索模式": "0",
+				//"搜索url":"https://v.woniufan.cn/index.php/vod/search.html?wd={wd}",
+				"播放数组": "\"module-blocklist\">&&</div>",
+				"播放标题": "<span>&&</span>",
+				"分类": "电影$1#海外剧$2#日韩剧$21#动漫$20",
+				"分类url": "https://v.woniufan.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m"
+			}
+		},
    {
             "key": "csp_XBP南坊",
             "name": "🏡┃南坊┃影视",
@@ -248,7 +244,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://cz01.org/"
+      "ext": "https://cz01.pw/"
     },
     {
       "key": "csp_FanYY",
@@ -394,7 +390,6 @@
       "filterable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
-        {"key": "西门影视","name": "👺┃西门┃影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://111.230.51.151:6969/api.php/app/"},
      {
     "key": "麻衣呀呼",
     "name": "🐜┃麻衣┃影视",
@@ -1043,6 +1038,81 @@
       ]
     }
   ],
+  "rules": [{
+			"name": "lz",
+			"hosts": [
+				"vip.lz",
+				"hd.lz",
+				"v.cdnlz"
+			],
+			"regex": [
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+			]
+		},
+		{
+			"name": "蜗牛直连去广",
+			"hosts": [
+				"vip.123pan.cn",
+				"rescdn.wuxivlog.cn"
+			],
+			"regex": [
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+			]
+		},
+		{
+			"name": "ff",
+			"hosts": [
+				"vip.ffzy",
+				"hd.ffzy"
+			],
+			"regex": [
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+			]
+		},
+		{
+			"name": "bf",
+			"hosts": [
+				"bfzy",
+				"s5.bfzycdn"
+			],
+			"regex": [
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+			]
+		},
+		{
+			"name": "hs",
+			"hosts": [
+				"huoshan.com"
+			],
+			"regex": [
+				"item_id="
+			]
+		},
+		{
+			"name": "dy",
+			"hosts": [
+				"douyin.com"
+			],
+			"regex": [
+				"is_play_url="
+			]
+		},
+		{
+			"name": "cl",
+			"hosts": [
+				"magnet"
+			],
+			"regex": [
+				"最 新",
+				"直 播",
+				"更 新"
+			]
+		}
+	],
   "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
