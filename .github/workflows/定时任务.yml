@@ -5,6 +5,7 @@ on:
     tags: [ '*.*.*' ]
   schedule:
     - cron: '0 0/4 * * *'
+  workflow_dispatch:
 
 env:
   REPO_URL: ${{ vars.REPO_URL }}
