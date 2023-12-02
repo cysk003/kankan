@@ -13,7 +13,7 @@ class Parser(object):
         spit_file = os.path.splitext(file)
         self.type = spit_file[-1]
         self.file_name = spit_file[-2]
-        if not os.path.isfile(file) or self.type not in ['.txt','.m3u','.m3u8']:
+        if not os.path.isfile(os.path.join(os.path.dirname(__file__), file)) or self.type not in ['.txt','.m3u','.m3u8']:
             raise TypeError("这不是一个文件，或者文件不存在, 或者文件格式不正确！")
         self.file = file
         self.load_data(file)
@@ -31,6 +31,7 @@ class Parser(object):
             if line.endswith('#genre#\n'):
                 group = line.replace(',#genre#\n', '')
                 continue
+            print(line.split(','))
             channel,url = line.split(',')
             self.new_lives.append(meta.format(group, channel))
             self.new_lives.append(url)
@@ -69,8 +70,8 @@ class Parser(object):
         self.as_file(as_file)   
 
 if __name__ == '__main__':
-    parser = Parser('live.m3u')
-    parser.m3u_to_txt().as_file(True)
+    parser = Parser('list.txt')
+    parser.txt_to_m3u().as_file(True)
 
     # string = 'group-title="🎣  NewTV" tvg-logo=""'
     # res = re.findall(r'group-title="(.*?)"', string)
